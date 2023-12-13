@@ -3,6 +3,6 @@
 # Website P5 Kelompok 4
 Website ini berisi deskripsi atau penjelasan tentang tanaman kencur, dibuat hanya dengan vuejs. 
 
-Kalian bisa cek websitenya dengan [klik link ini](https://p5.faizdzn.site)
+Kalian bisa cek websitenya dengan [klik link ini!](https://p5.faizdzn.site)
 
 Powered by [faizdzn.site](https://faizdzn.site)
